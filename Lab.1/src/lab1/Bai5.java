@@ -106,7 +106,7 @@ public class Bai5 {
                     break;
                 }
             }
-        } while (n != 4);
+        } while (n != 0);
     }
 
 }
